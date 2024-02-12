@@ -16,7 +16,7 @@ prerequisites:
 pip install discord
 pip install asyncio
 pip install os
-pip install dotenv
+pip install python-dotenv
 
 
 How to make a discord bot:
